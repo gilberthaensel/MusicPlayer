@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="str_title">Music Player</string>
+    <string name="str_button1">Profil</string>
+    <string name="str_button2">Login</string>
+    <string name="str_nim">Nim   : 00000033147</string>
+    <string name="str_name">Nama  : Gilbert Haensel</string>
+    <string name="str_kelas">Kelas : CL</string>
+</resources>
